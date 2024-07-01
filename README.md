@@ -34,7 +34,7 @@ Operating on the assumption that senior business leaders will not likely read pa
 
 + The stakeholder who requested the CTI product; in this case, the individual/team who requested the Threat Actor Profile.
 
-<h3>Charting out what details each audience requires</h3>
+<h4>Charting out what details each audience requires</h4>
 
 Anyone working in the intelligence field for any amount of time – either on the production side or in a recipient capacity – likely recognizes that poor intelligence is easily identifiable by its lack of relatable content/context to those receiving the report.  
 
@@ -46,7 +46,7 @@ To overcome the risk of this therein, let us first chart the differences for whi
 
 Executive Summary – Tactics
 
-Key Points to Remember:
+<h4>Key Points to Remember:</h4>
 
 + Ideally, confine the Executive Summary to 10 to 15 lines (2 to 3 paragraphs).
 + Ensure the following 3 questions are answered:
@@ -55,18 +55,21 @@ Key Points to Remember:
    (b) “So what?”
    (c) “What now?”
 
-How to open an Executive Summary:
+<h4>How to open an Executive Summary:</h4>
 
 Example: “As of [Month, Year], the Cyber Threat Intelligence (CTI) team has researched [ThreatActorA]...”
 
-What to include in the Executive Summary:
+<h4>What to include in the Executive Summary:</h4>
 
-Explain the level of threat to the company, which may include (among the following):
-Highlight – 
+Explain the level of threat to the company, which may include (among the following):<br />
+
+Highlight –
+
 + Whether [ThreatActorA] has targeted the company’s sector / country / region as early as 
    possible.
 
 Create – 
+
 + A short assessment of why the company could be targeted (or have been targeted) by 
    [ThreatActorA].
 
@@ -75,7 +78,7 @@ Create –
 
 <h2>Part B) About [ThreatActorA]</h2>
 
-Step 1 – [ThreatActorA] Alias Housekeeping
+<h4>Step 1 – [ThreatActorA] Alias Housekeeping</h4>
 
 Create a Threat Actor Alias (a.k.a. cryptonyms) table to:
 
@@ -84,7 +87,7 @@ Create a Threat Actor Alias (a.k.a. cryptonyms) table to:
 
 ![samplethreatactoranalysistable](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology/assets/104402775/ee8059e2-fbcb-4f0f-9a34-b7445816da81)
 
-Step 2 – Answer the following questions:
+<h4>Step 2 – Answer the following questions:</h4>
 
 + What type of threat actor is this (i.e., what group)? 
   NOTE: Consider common labels like cybercrime, espionage, hacktivist, etc.
@@ -116,15 +119,15 @@ Step 2 – Answer the following questions:
 
 Since the Diamond Model Attributes are key details that support rapid understanding of [ThreatActorA]...
 
-Step 1 – Fill out the Diamond Model Attributes
+<h4>Step 1 – Fill out the Diamond Model Attributes</h4>
 
 ![diamondmodelattributestable3](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology/assets/104402775/a852f5d8-1eb6-4531-bb8f-2c45014ed5e8)
 
-Step 2 – Add the attributes aforementioned to the [Diamond Model Diagram](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf?adlt=strict)
+<h4>Step 2 – Add the attributes aforementioned to the [Diamond Model Diagram](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf?adlt=strict)</h4>
 
 ![samplediamondmodelimage](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology/assets/104402775/531975bf-27ff-4179-876e-eb1ca4adc1d1)
 
-Step 3 – Leverage the completed Diamond Model Diagram to introduce [ThreatActorA] and address key points from threat data research & extraction.
+<h4>Step 3 – Leverage the completed Diamond Model Diagram to introduce [ThreatActorA] and address key points from threat data research & extraction.</h4>
 
 <h2>Part E) [ThreatActorA] Tactics, Techniques and Procedures (TTPs)</h2>
 
@@ -141,11 +144,11 @@ The benefits of addressing this part include:
 
   + SOC – TTPs can be helpful for situational awareness & supporting event triage.
 
-Step 1 – Summarize the technical details of [ThreatActorA] at a high level.
+<h4>Step 1 – Summarize the technical details of [ThreatActorA] at a high level.</h4>
 
 + Consider utilizing [Unified Kill Chain](https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf)’s 3 Stages: In, Through, & Out
 
-Step 2 – Address [ThreatActorA]’s TTPs in detail
+<h4>Step 2 – Address [ThreatActorA]’s TTPs in detail</h4>
 
 + Recommendation: Utilize the [MITRE ATT&CK Framework](https://attack.mitre.org/)
 + Recommendation: Create a Table for TTPs (See Sample Table Below)
