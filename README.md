@@ -1,9 +1,8 @@
-Topic: CTI Reporting Methodologies 2
-Subject: Threat Actor Profile Methodology
-Source: T. W.  (2023).  [The threat actor profile guide for CTI analysts](https://drive.google.com/file/d/1aIPxUgIA_fC0aH78hN_CQRlMZa69fZ8K/view): Curated intelligence.
-NOTE: This is not an original idea; this work product was inspired by [see source above].
-Objective 1: Recreate this methodology in my own words and understanding.
-Objective 2: Craft reporting templates based on the given methodology.
+Topic: CTI Reporting Methodologies 2 <br />
+Subject: Threat Actor Profile Methodology <br />
+Source: T. W.  (2023).  [The threat actor profile guide for CTI analysts](https://drive.google.com/file/d/1aIPxUgIA_fC0aH78hN_CQRlMZa69fZ8K/view): Curated intelligence. <br />
+NOTE: This is not an original idea; this work product was inspired by [see source above]. <br />
+Objective 1: Recreate this methodology in my own words and understanding. <br />
 
 <h1>Threat-Actor-Profile-Methodology</h1>
 
