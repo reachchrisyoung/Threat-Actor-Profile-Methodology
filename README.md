@@ -129,7 +129,10 @@ NOTE: For reference, the Diamond Model Diagram can be reviewed by [clicking here
 
 ![samplediamondmodelimage](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology/assets/104402775/531975bf-27ff-4179-876e-eb1ca4adc1d1)
 
-<h4>Step 3 – Leverage the completed Diamond Model Diagram to introduce [ThreatActorA] and address key points from threat data research & extraction.</h4>
+<h4>Step 3 – Leverage the completed Diamond Model Diagram</h4>
+   
++ to introduce [ThreatActorA], and...
++ to address key points from threat data research & extraction.
 
 <h2>Part E) [ThreatActorA] Tactics, Techniques and Procedures (TTPs)</h2>
 
