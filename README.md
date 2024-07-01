@@ -123,7 +123,9 @@ Since the Diamond Model Attributes are key details that support rapid understand
 
 ![diamondmodelattributestable3](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology/assets/104402775/a852f5d8-1eb6-4531-bb8f-2c45014ed5e8)
 
-<h4>Step 2 – Add the attributes aforementioned to the [Diamond Model Diagram](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf?adlt=strict)</h4>
+<h4>Step 2 – Add the attributes aforementioned to the Diamond Model Diagram</h4>
+   
+NOTE: For reference, the Diamond Model Diagram can be reviewed by [clicking here](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf?adlt=strict)
 
 ![samplediamondmodelimage](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology/assets/104402775/531975bf-27ff-4179-876e-eb1ca4adc1d1)
 
