@@ -26,15 +26,15 @@ Executive Summary - Description
 
 Operating on the assumption that senior business leaders will not likely read past the Executive Summary, CTI practitioners must favor their ability to provide this key component of the report.
 
-What to include in the Executive Summary?
+<h4> What to include in the Executive Summary? </h4>
 
 + The most significant findings and assessments; PUT THESE UP FRONT – think B.L.U.F. (Bottom Line Up Front)
 
-How should the Executive Summary be tailored?
+<h4> How should the Executive Summary be tailored? </h4>
 
 + The stakeholder who requested the CTI product; in this case, the individual/team who requested the Threat Actor Profile.
 
-Charting out what details each audience requires
+<h3>Charting out what details each audience requires</h3>
 
 Anyone working in the intelligence field for any amount of time – either on the production side or in a recipient capacity – likely recognizes that poor intelligence is easily identifiable by its lack of relatable content/context to those receiving the report.  
 
