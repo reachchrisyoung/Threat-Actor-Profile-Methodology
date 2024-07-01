@@ -42,7 +42,7 @@ To overcome the risk of this therein, let us first chart the differences for whi
 
 <h2>Part A) Executive Summary Introduction</h2>
 
-![table1forctithreatactorprofilemethodology](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology/assets/104402775/a76353fd-ace7-4fe8-8103-e987f8bfaf6e)
+![stakeholdertable1](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology/assets/104402775/4a7aced1-aaed-4c46-ab60-2d2aff8268b1)
 
 Executive Summary – Tactics
 
