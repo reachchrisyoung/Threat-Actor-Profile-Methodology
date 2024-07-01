@@ -4,7 +4,7 @@ Source: T. W.  (2023).  [The threat actor profile guide for CTI analysts](https:
 NOTE: This is not an original idea; this work product was inspired by [see source above]. <br />
 Objective 1: Recreate this methodology in my own words and understanding. <br />
 
-<h1>Threat-Actor-Profile-Methodology</h1>
+<h1>Threat Actor Profile Methodology</h1>
 
 <h3> Table of Contents </h3>
 
